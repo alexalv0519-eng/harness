@@ -1,0 +1,8 @@
+{
+  "name": "La Revolución de los Agentes de IA",
+  "description": "Presentación interactiva y de alto impacto sobre arquitectura agéntica: Modelo + Harness, Bucle ReAct, Skills con MCP y frameworks multi-agente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
